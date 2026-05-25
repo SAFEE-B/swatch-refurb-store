@@ -1,0 +1,6 @@
+<svg width="150" height="40" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { font: bold 30px 'Poppins', sans-serif; fill: #FF5733; }
+  </style>
+  <text x="5" y="30" class="text">ReSwatch</text>
+</svg>
